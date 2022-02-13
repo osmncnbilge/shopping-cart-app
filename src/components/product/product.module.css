@@ -1,0 +1,32 @@
+.container {
+  width: fit-content;
+}
+
+.imageContainer {
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+}
+
+.image {
+  padding: 3px 15px 4px;
+}
+
+.typography {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  width: 230px;
+  color: #484848;
+}
+
+.productFilter {
+  display: flex;
+}
+
+.subTitle {
+  font-weight: 700;
+}

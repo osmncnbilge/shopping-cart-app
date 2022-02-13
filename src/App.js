@@ -1,7 +1,10 @@
+import Product from "./components/product/Product";
+import image from "./assets/image-1.png";
+
 function App() {
   return (
     <div>
-      App
+      <Product image={image} />
     </div>
   );
 }
